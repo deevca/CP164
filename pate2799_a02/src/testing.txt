@@ -1,0 +1,81 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Deev Patel
+ID:      169032799
+Email:   pate27990@mylaurier.ca
+__updated__ = "2023-09-18"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01 
+-------------------------------------------------------
+Title:    Star Wars: Episode IV - A New Hope
+Year:     1977
+Director: 8.7
+Rating:   8.7
+Genres:   science fiction, action
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Title:    Zulu
+Year:     2013
+Director: 6.7
+Rating:   6.7
+Genres:   drama
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Title:    Dark City
+Year:     1998
+Director: 7.8
+Rating:   7.8
+Genres:   science fiction
+
+Title:    I Am Legend
+Year:     2007
+Director: 7.1
+Rating:   7.1
+Genres:   science fiction, action
+
+Title:    Omega Man, The
+Year:     1971
+Director: 6.6
+Rating:   6.6
+Genres:   science fiction, action
+
+Title:    Last Man On Earth, The
+Year:     1964
+Director: 6.9
+Rating:   6.9
+Genres:   science fiction
+
+Title:    Alphaville
+Year:     1965
+Director: 7.1
+Rating:   7.1
+Genres:   science fiction, comedy
+
+Title:    Star Wars: Episode IV - A New Hope
+Year:     1977
+Director: 8.7
+Rating:   8.7
+Genres:   science fiction, action
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Year:     2007
+Director: 7.7
+Rating:   7.7
+Genres:   romance, comedy
+Title:    Broken Flowers
+Year:     2005
+Director: 7.2
+Rating:   7.2
+Genres:   romance, comedy
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+[6, 3, 2, 3, 8, 1, 5, 0, 4, 1, 0]
+-------------------------------------------------------
